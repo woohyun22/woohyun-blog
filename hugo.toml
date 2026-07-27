@@ -1,0 +1,103 @@
+baseURL = 'https://woohyun-blog.github.io/'
+locale = 'ko'
+defaultContentLanguage = 'ko'
+title = '오늘의 IT 꿀팁'
+theme = 'PaperMod'
+paginate = 10
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = false
+hasCJKLanguage = true
+
+[minify]
+disableXML = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+env = "production"
+description = "AI, IT 기술, 생활 꿀팁까지 매일 업데이트되는 실용 정보 블로그"
+author = "테크라이프"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowAllPagesInArchive = true
+ShowPageNums = true
+ShowToc = true
+comments = false
+mainSections = ["posts"]
+
+  [params.homeInfoParams]
+  Title = "오늘의 IT 꿀팁"
+  Content = "AI 활용법, IT 기술 정보, 생활 꿀팁을 매일 업데이트합니다. 실용적인 정보로 일상을 더 스마트하게!"
+
+  [params.profileMode]
+  enabled = false
+
+  [[params.socialIcons]]
+  name = "rss"
+  url = "index.xml"
+
+[params.assets]
+favicon = "/favicon.ico"
+disableHLJS = true
+
+[params.cover]
+hidden = false
+hiddenInList = false
+hiddenInSingle = false
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+keys = ["title", "permalink", "summary", "content"]
+
+[markup]
+  [markup.highlight]
+  noClasses = false
+
+[sitemap]
+changefreq = "daily"
+filename = "sitemap.xml"
+priority = 0.5
+
+[[menu.main]]
+identifier = "posts"
+name = "글 목록"
+url = "/posts/"
+weight = 1
+
+[[menu.main]]
+identifier = "categories"
+name = "카테고리"
+url = "/categories/"
+weight = 2
+
+[[menu.main]]
+identifier = "tags"
+name = "태그"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+identifier = "search"
+name = "검색"
+url = "/search/"
+weight = 4
+
+[[menu.main]]
+identifier = "archives"
+name = "아카이브"
+url = "/archives/"
+weight = 5
