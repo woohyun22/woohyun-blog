@@ -174,4 +174,7 @@ VLOOKUP보다 유연하고 강력합니다.
 
 ---
 
-*더 많은 업무 효율 팁이 궁금하시다면 다른 글도 확인해보세요!*
+**함께 읽으면 좋은 글:**
+- [노션 처음 사용하는 법 - 완전 초보자 가이드](/woohyun-blog/posts/notion-beginner-guide/)
+- [윈도우11 느려졌을 때 빠르게 만드는 방법 7가지](/woohyun-blog/posts/windows-speed-up-tips/)
+- [무료로 쓸 수 있는 AI 도구 TOP 10](/woohyun-blog/posts/free-ai-tools-2026/)

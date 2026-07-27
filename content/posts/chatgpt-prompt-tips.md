@@ -146,4 +146,7 @@ JSON 형식으로 출력해줘:
 
 ---
 
-*AI 활용 팁이 더 궁금하시다면 다른 글도 확인해보세요!*
+**함께 읽으면 좋은 글:**
+- [ChatGPT vs Claude 비교 2026 - 어떤 AI가 더 좋을까?](/woohyun-blog/posts/chatgpt-vs-claude-comparison-2026/)
+- [무료로 쓸 수 있는 AI 도구 TOP 10](/woohyun-blog/posts/free-ai-tools-2026/)
+- [무료 AI 이미지 생성 사이트 BEST 5](/woohyun-blog/posts/ai-image-generator-free/)

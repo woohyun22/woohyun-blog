@@ -136,4 +136,7 @@ TocOpen: true
 
 ---
 
-*더 많은 절약 팁이 궁금하시다면 다른 글도 확인해보세요!*
+**함께 읽으면 좋은 글:**
+- [전기세 줄이는 방법 10가지 - 월 3만원 이상 절약 가능](/woohyun-blog/posts/electricity-bill-saving/)
+- [아이폰 배터리 오래 쓰는 법](/woohyun-blog/posts/iphone-battery-saving-tips/)
+- [노션 처음 사용하는 법 - 완전 초보자 가이드](/woohyun-blog/posts/notion-beginner-guide/)

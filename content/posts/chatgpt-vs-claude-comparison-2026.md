@@ -67,4 +67,7 @@ AI 챗봇 시장에서 가장 많이 비교되는 두 서비스, **ChatGPT**와 
 
 ---
 
-*이 글이 도움이 되셨다면 다른 AI 관련 글도 확인해보세요!*
+**함께 읽으면 좋은 글:**
+- [ChatGPT 프롬프트 잘 쓰는 법 - 답변 퀄리티 10배 올리기](/woohyun-blog/posts/chatgpt-prompt-tips/)
+- [무료로 쓸 수 있는 AI 도구 TOP 10](/woohyun-blog/posts/free-ai-tools-2026/)
+- [무료 AI 이미지 생성 사이트 BEST 5](/woohyun-blog/posts/ai-image-generator-free/)

@@ -97,4 +97,7 @@ GPS가 항상 켜져 있으면 배터리를 많이 소모합니다.
 
 ---
 
-*더 많은 스마트폰 꿀팁이 궁금하시다면 다른 글도 확인해보세요!*
+**함께 읽으면 좋은 글:**
+- [돈 모으는 앱 추천 TOP 7](/woohyun-blog/posts/money-saving-apps-2026/)
+- [윈도우11 느려졌을 때 빠르게 만드는 방법 7가지](/woohyun-blog/posts/windows-speed-up-tips/)
+- [전기세 줄이는 방법 10가지](/woohyun-blog/posts/electricity-bill-saving/)

@@ -128,4 +128,7 @@ TocOpen: true
 
 ---
 
-*더 많은 생활 절약 팁이 궁금하시다면 다른 글도 확인해보세요!*
+**함께 읽으면 좋은 글:**
+- [돈 모으는 앱 추천 TOP 7](/woohyun-blog/posts/money-saving-apps-2026/)
+- [아이폰 배터리 오래 쓰는 법](/woohyun-blog/posts/iphone-battery-saving-tips/)
+- [윈도우11 느려졌을 때 빠르게 만드는 방법 7가지](/woohyun-blog/posts/windows-speed-up-tips/)

@@ -128,4 +128,7 @@ AI가 음악을 만들어주는 서비스입니다.
 
 ---
 
-*더 많은 AI 활용 팁이 궁금하시다면 다른 글도 확인해보세요!*
+**함께 읽으면 좋은 글:**
+- [ChatGPT vs Claude 비교 2026 - 어떤 AI가 더 좋을까?](/woohyun-blog/posts/chatgpt-vs-claude-comparison-2026/)
+- [ChatGPT 프롬프트 잘 쓰는 법](/woohyun-blog/posts/chatgpt-prompt-tips/)
+- [무료 AI 이미지 생성 사이트 BEST 5](/woohyun-blog/posts/ai-image-generator-free/)

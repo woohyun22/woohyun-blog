@@ -122,4 +122,7 @@ AI 이미지 생성은 이제 누구나 쉽게 할 수 있습니다. 처음이�
 
 ---
 
-*AI 관련 더 많은 팁이 궁금하시다면 다른 글도 확인해보세요!*
+**함께 읽으면 좋은 글:**
+- [무료로 쓸 수 있는 AI 도구 TOP 10](/woohyun-blog/posts/free-ai-tools-2026/)
+- [ChatGPT vs Claude 비교 2026](/woohyun-blog/posts/chatgpt-vs-claude-comparison-2026/)
+- [ChatGPT 프롬프트 잘 쓰는 법](/woohyun-blog/posts/chatgpt-prompt-tips/)

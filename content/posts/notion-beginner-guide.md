@@ -127,4 +127,7 @@ TocOpen: true
 
 ---
 
-*더 많은 생산성 도구 팁이 궁금하시다면 다른 글도 확인해보세요!*
+**함께 읽으면 좋은 글:**
+- [직장인 필수 엑셀 함수 10개](/woohyun-blog/posts/excel-useful-functions/)
+- [무료로 쓸 수 있는 AI 도구 TOP 10](/woohyun-blog/posts/free-ai-tools-2026/)
+- [ChatGPT 프롬프트 잘 쓰는 법](/woohyun-blog/posts/chatgpt-prompt-tips/)
