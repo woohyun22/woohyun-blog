@@ -45,6 +45,10 @@ mainSections = ["posts"]
   name = "rss"
   url = "index.xml"
 
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/woohyun22"
+
 [params.assets]
 favicon = "/favicon.ico"
 disableHLJS = true
@@ -101,3 +105,9 @@ identifier = "archives"
 name = "아카이브"
 url = "/archives/"
 weight = 5
+
+[[menu.main]]
+identifier = "about"
+name = "소개"
+url = "/about/"
+weight = 6

@@ -6,12 +6,14 @@ description: "윈도우11 컴퓨터가 느려졌을 때 바로 적용할 수 있
 categories: ["IT 팁"]
 tags: ["윈도우11", "컴퓨터 속도", "PC 최적화", "윈도우 팁", "컴퓨터 빠르게"]
 cover:
-  image: ""
+  image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=800"
   alt: "윈도우11 속도 최적화"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
+
+![윈도우11 PC 최적화](https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=800)
 
 ## 컴퓨터가 갑자기 느려졌다면?
 

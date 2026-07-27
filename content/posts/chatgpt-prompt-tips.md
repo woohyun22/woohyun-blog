@@ -6,12 +6,14 @@ description: "ChatGPT에서 원하는 답변을 얻기 위한 프롬프트 작�
 categories: ["AI"]
 tags: ["ChatGPT", "프롬프트", "AI 활용", "프롬프트 엔지니어링", "AI 팁"]
 cover:
-  image: ""
+  image: "https://images.unsplash.com/photo-1684487747720-1ba29cda82e8?w=800"
   alt: "ChatGPT 프롬프트 팁"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
+
+![ChatGPT 프롬프트 작성법](https://images.unsplash.com/photo-1684487747720-1ba29cda82e8?w=800)
 
 ## 같은 ChatGPT인데 왜 답변이 다를까?
 

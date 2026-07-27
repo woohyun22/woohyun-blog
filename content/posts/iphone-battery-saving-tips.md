@@ -6,12 +6,14 @@ description: "아이폰 배터리가 빨리 닳는다면? 설정 변경만으로
 categories: ["생활 꿀팁"]
 tags: ["아이폰", "배터리", "아이폰 팁", "배터리 절약", "스마트폰"]
 cover:
-  image: ""
+  image: "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=800"
   alt: "아이폰 배터리 절약"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
+
+![아이폰 배터리 관리](https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=800)
 
 ## 아이폰 배터리, 왜 이렇게 빨리 닳을까?
 

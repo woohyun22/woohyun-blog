@@ -6,12 +6,14 @@ description: "2026년 현재 무료로 사용할 수 있는 AI 도구 10가지�
 categories: ["AI"]
 tags: ["무료 AI", "AI 도구", "생산성", "업무 효율", "AI 추천"]
 cover:
-  image: ""
+  image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800"
   alt: "무료 AI 도구 추천"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
+
+![AI 도구 활용](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800)
 
 ## 돈 안 들이고 AI 활용하는 방법
 

@@ -6,12 +6,14 @@ description: "무료로 AI 이미지를 생성할 수 있는 사이트 5곳을 �
 categories: ["AI"]
 tags: ["AI 이미지", "이미지 생성", "무료 AI", "디자인", "AI 그림"]
 cover:
-  image: ""
+  image: "https://images.unsplash.com/photo-1686191128892-3b37add4c844?w=800"
   alt: "AI 이미지 생성 추천"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
+
+![AI 이미지 생성](https://images.unsplash.com/photo-1686191128892-3b37add4c844?w=800)
 
 ## AI로 이미지를 무료로 만들 수 있다고?
 
