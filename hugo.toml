@@ -1,4 +1,4 @@
-baseURL = 'https://woohyun-blog.github.io/'
+baseURL = 'https://woohyun22.github.io/woohyun-blog/'
 locale = 'ko'
 defaultContentLanguage = 'ko'
 title = '오늘의 IT 꿀팁'
