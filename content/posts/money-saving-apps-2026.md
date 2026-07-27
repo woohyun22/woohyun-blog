@@ -6,14 +6,14 @@ description: "실제로 돈을 절약하거나 용돈을 벌 수 있는 앱 7가
 categories: ["생활 꿀팁"]
 tags: ["절약 앱", "돈 모으기", "앱 추천", "부업", "생활비 절약"]
 cover:
-  image: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800"
+  image: "/images/money-apps.jpg"
   alt: "돈 모으는 앱 추천"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
 
-![돈 절약 앱 추천](https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800)
+![스마트폰으로 결제하는 모습](/images/money-apps.jpg)
 
 ## 스마트폰으로 돈을 아끼고 벌 수 있다
 
