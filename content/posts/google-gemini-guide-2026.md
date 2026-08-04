@@ -6,7 +6,7 @@ description: "구글 제미나이를 무료로 활용하는 방법을 총정리�
 categories: ["AI"]
 tags: ["구글 제미나이", "Gemini", "AI 활용법", "구글 AI", "무료 AI"]
 cover:
-  image: ""
+  image: "images/google-gemini.jpg"
   alt: "구글 제미나이 활용법"
 ---
 

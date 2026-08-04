@@ -6,7 +6,7 @@ description: "여름 에어컨 전기세 절약하는 실전 방법 7가지를 �
 categories: ["생활 꿀팁"]
 tags: ["전기세 절약", "에어컨 꿀팁", "여름 절약", "에어컨 전기요금", "냉방비"]
 cover:
-  image: ""
+  image: "images/aircon-saving.jpg"
   alt: "여름 에어컨 전기세 절약"
 ---
 

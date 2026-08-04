@@ -6,7 +6,7 @@ description: "스마트홈을 10만원 이내로 시작하는 방법을 알려�
 categories: ["IT 팁"]
 tags: ["스마트홈", "IoT", "AI 스피커", "홈 오토메이션", "스마트 조명"]
 cover:
-  image: ""
+  image: "images/smarthome.jpg"
   alt: "스마트홈 입문 가이드"
 ---
 

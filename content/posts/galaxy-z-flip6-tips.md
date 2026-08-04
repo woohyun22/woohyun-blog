@@ -6,7 +6,7 @@ description: "갤럭시 Z 플립6 숨겨진 기능과 꿀팁 10가지를 총정�
 categories: ["IT 팁"]
 tags: ["갤럭시 Z 플립6", "삼성 스마트폰", "스마트폰 꿀팁", "플립폰", "갤럭시 팁"]
 cover:
-  image: ""
+  image: "images/galaxy-flip.jpg"
   alt: "갤럭시 Z 플립6 꿀팁"
 ---
 

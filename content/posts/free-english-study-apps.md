@@ -6,7 +6,7 @@ description: "2026년 무료로 영어 공부할 수 있는 앱 TOP 5를 추천�
 categories: ["생활 꿀팁"]
 tags: ["영어 공부", "영어 앱", "무료 영어", "듀오링고", "영어 회화"]
 cover:
-  image: ""
+  image: "images/english-study.jpg"
   alt: "무료 영어 공부 앱 추천"
 ---
 

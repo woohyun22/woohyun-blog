@@ -6,8 +6,8 @@ description: "2026년 최고의 AI 코딩 도구 Cursor, GitHub Copilot, Claude 
 categories: ["AI"]
 tags: ["AI 코딩", "Cursor", "GitHub Copilot", "Claude Code", "개발 도구"]
 cover:
-  image: ""
-  alt: "AI 코딩 도구 비교 2026"
+  image: "images/ai-coding.jpg"
+  alt: "AI 코딩 도구 비교"
 ---
 
 ## AI 코딩 도구, 이제 선택이 아닌 필수

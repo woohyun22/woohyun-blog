@@ -6,7 +6,7 @@ description: "노트북 발열이 심할 때 즉시 적용할 수 있는 해결�
 categories: ["IT 팁"]
 tags: ["노트북 발열", "노트북 관리", "노트북 쿨링", "여름 노트북", "PC 관리"]
 cover:
-  image: ""
+  image: "images/laptop-heat.jpg"
   alt: "노트북 발열 해결법"
 ---
 
