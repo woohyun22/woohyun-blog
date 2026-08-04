@@ -6,12 +6,116 @@
 <meta name="googlebot" content="index, follow">
 <link rel="canonical" href="{{ .Permalink }}">
 
-{{- /* Open Graph */ -}}
+{{- /* Open Graph 강화 */ -}}
 <meta property="og:locale" content="ko_KR">
 <meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 150 }}{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+{{- with .Params.cover.image }}
+<meta property="og:image" content="{{ . | absURL }}">
+{{- end }}
+
+{{- /* Twitter Card */ -}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 150 }}{{ end }}">
+
+{{- /* 구조화 데이터 - Article (블로그 글에만 적용) */ -}}
+{{- if and .IsPage (eq .Section "posts") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ .Title }}",
+  "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 150 }}{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05+09:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05+09:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "테크라이프"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "오늘의 IT 꿀팁",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ "favicon.ico" | absURL }}"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+  {{- with .Params.cover.image }},
+  "image": "{{ . | absURL }}"
+  {{- end }}
+}
+</script>
+{{- end }}
+
+{{- /* 구조화 데이터 - WebSite (홈페이지에만 적용) */ -}}
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{- end }}
+
+{{- /* BreadcrumbList 구조화 데이터 */ -}}
+{{- if and .IsPage (eq .Section "posts") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "홈",
+      "item": "{{ .Site.BaseURL }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "글 목록",
+      "item": "{{ "posts/" | absURL }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{- end }}
 
 {{- /* Google Search Console - 인증 후 아래 주석 해제 */ -}}
 {{- /* <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" /> */ -}}
 
 {{- /* Naver Search Advisor - 인증 후 아래 주석 해제 */ -}}
 {{- /* <meta name="naver-site-verification" content="YOUR_NAVER_CODE" /> */ -}}
+
+{{- /* Google Analytics 4 - 설정 후 아래 주석 해제 */ -}}
+{{- /*
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YOUR_GA4_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-YOUR_GA4_ID');
+</script>
+*/ -}}
