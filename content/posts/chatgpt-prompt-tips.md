@@ -6,14 +6,14 @@ description: "ChatGPT에서 원하는 답변을 얻기 위한 프롬프트 작�
 categories: ["AI"]
 tags: ["ChatGPT", "프롬프트", "AI 활용", "프롬프트 엔지니어링", "AI 팁"]
 cover:
-  image: "/images/chatgpt-prompt.jpg"
+  image: "images/chatgpt-prompt.jpg"
   alt: "ChatGPT 프롬프트 팁"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
 
-![키보드로 타이핑하는 손](/images/chatgpt-prompt.jpg)
+![키보드로 타이핑하는 손](/woohyun-blog/images/chatgpt-prompt.jpg)
 
 ## 같은 ChatGPT인데 왜 답변이 다를까?
 

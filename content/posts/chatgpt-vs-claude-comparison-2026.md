@@ -6,14 +6,14 @@ description: "2026년 최신 ChatGPT와 Claude AI를 실제 사용 경험 기반
 categories: ["AI"]
 tags: ["ChatGPT", "Claude", "AI 비교", "인공지능", "AI 추천"]
 cover:
-  image: "/images/chatgpt-claude.jpg"
+  image: "images/chatgpt-claude.jpg"
   alt: "ChatGPT vs Claude 비교"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
 
-![노트북으로 AI 챗봇 사용하는 모습](/images/chatgpt-claude.jpg)
+![노트북으로 AI 챗봇 사용하는 모습](/woohyun-blog/images/chatgpt-claude.jpg)
 
 ## ChatGPT와 Claude, 2026년 현재 어떤 차이가 있을까?
 

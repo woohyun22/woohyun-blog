@@ -6,14 +6,14 @@ description: "노션(Notion)을 처음 사용하는 분들을 위한 기초 가�
 categories: ["IT 팁"]
 tags: ["노션", "Notion", "생산성", "메모 앱", "업무 도구"]
 cover:
-  image: "/images/notion.jpg"
+  image: "images/notion.jpg"
   alt: "노션 초보자 가이드"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
 
-![깔끔하게 정리된 할 일 목록과 노트](/images/notion.jpg)
+![깔끔하게 정리된 할 일 목록과 노트](/woohyun-blog/images/notion.jpg)
 
 ## 노션이 뭔가요?
 

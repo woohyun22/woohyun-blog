@@ -6,14 +6,14 @@ description: "여름철 전기세 폭탄을 막는 방법 10가지를 소개합�
 categories: ["생활 꿀팁"]
 tags: ["전기세", "절약", "생활비", "에너지 절약", "여름 전기세"]
 cover:
-  image: "/images/electricity.jpg"
+  image: "images/electricity.jpg"
   alt: "전기세 절약 방법"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
 
-![에어컨 리모컨으로 온도 조절하는 모습](/images/electricity.jpg)
+![에어컨 리모컨으로 온도 조절하는 모습](/woohyun-blog/images/electricity.jpg)
 
 ## 여름 전기세, 왜 이렇게 많이 나올까?
 

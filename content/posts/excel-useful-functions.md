@@ -6,14 +6,14 @@ description: "직장인이 반드시 알아야 할 엑셀 함수 10가지를 예
 categories: ["IT 팁"]
 tags: ["엑셀", "엑셀 함수", "직장인", "업무 효율", "스프레드시트"]
 cover:
-  image: "/images/excel.jpg"
+  image: "images/excel.jpg"
   alt: "엑셀 필수 함수"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
 
-![스프레드시트 작업 모습](/images/excel.jpg)
+![스프레드시트 작업 모습](/woohyun-blog/images/excel.jpg)
 
 ## 엑셀 함수, 이 10개만 알면 됩니다
 

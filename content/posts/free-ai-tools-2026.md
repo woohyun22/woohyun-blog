@@ -6,14 +6,14 @@ description: "2026년 현재 무료로 사용할 수 있는 AI 도구 10가지�
 categories: ["AI"]
 tags: ["무료 AI", "AI 도구", "생산성", "업무 효율", "AI 추천"]
 cover:
-  image: "/images/ai-tools.jpg"
+  image: "images/ai-tools.jpg"
   alt: "무료 AI 도구 추천"
   hidden: false
 ShowToc: true
 TocOpen: true
 ---
 
-![노트북으로 다양한 도구를 활용하는 모습](/images/ai-tools.jpg)
+![노트북으로 다양한 도구를 활용하는 모습](/woohyun-blog/images/ai-tools.jpg)
 
 ## 돈 안 들이고 AI 활용하는 방법
 
